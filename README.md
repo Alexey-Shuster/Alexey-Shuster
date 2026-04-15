@@ -10,7 +10,7 @@
 IDE: Qt, CLion, VS Code <br>
 Контроль версий: Git, GitHub <br>
 Инструменты: CMake, Conan, Docker, PostgreSQL <br>
-Библиотеки: STL, Boost (Asio, Beast, Log, Serialization etc.), Catch2 <br>
+Библиотеки: STL, Boost (Asio, Beast, Log, Serialization etc.), Catch2, libpqxx <br>
 
 Контакты 💬
 ---
