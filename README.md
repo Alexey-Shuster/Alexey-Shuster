@@ -16,4 +16,3 @@ IDE: Qt, CLion, VS Code <br>
 ---
 
 mail: Alexey.Shuster@gmail.com <br>
-Статус занятости: открыт для новых предложений
